@@ -8,7 +8,7 @@ Este projeto foi desenvolvido com o objetivo de aprimorar meus conhecimentos em 
 Este projeto reflete meu compromisso com o aprendizado contínuo e a implementação de soluções práticas, trazendo mais eficiência e valor para o ambiente corporativo.
 
 🛠️ Tecnologias Utilizadas
-Node.js
+Python
 Telegram Bot API
 Banco de Dados
 Requisições HTTP
