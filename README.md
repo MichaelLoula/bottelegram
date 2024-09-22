@@ -12,4 +12,4 @@ Python
 Telegram Bot API
 Banco de Dados
 Requisições HTTP
-Sinta-se à vontade para explorar o código e sugerir melhorias! 😊
+Sinta-se à vontade para explorar o código e sugerir melhorias! 
